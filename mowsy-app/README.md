@@ -1,6 +1,6 @@
-# Mowsy App - React Native Cross-Platform Application
+# Mowsy React Native Application
 
-A fully-featured React Native application for Mowsy, the hyperlocal gig economy platform connecting neighbors for yard work jobs and equipment rentals. This production-ready app includes complete job posting/browsing, equipment rental management, user authentication, and real-time API integration.
+The cross-platform mobile and web application for the Mowsy platform, built with React Native and Expo. This production-ready app provides a complete marketplace for yard work services and equipment rentals within local communities.
 
 ## 🚀 Quick Start
 
@@ -238,12 +238,13 @@ Configure the following for production:
 - Add loading states for async operations
 - Optimize for both mobile and web platforms
 
-## 📞 Support
+## 📞 Technical Support
 
 For development issues or questions:
-- Check the Expo documentation
-- Review React Navigation guides
-- Consult Redux Toolkit documentation
+- **Expo Documentation**: [https://docs.expo.dev/](https://docs.expo.dev/)
+- **React Navigation**: [https://reactnavigation.org/](https://reactnavigation.org/)
+- **Redux Toolkit**: [https://redux-toolkit.js.org/](https://redux-toolkit.js.org/)
+- **RTK Query**: [https://redux-toolkit.js.org/rtk-query/overview](https://redux-toolkit.js.org/rtk-query/overview)
 
 ## 🎯 Future Enhancements
 
